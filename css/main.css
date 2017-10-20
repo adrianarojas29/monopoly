@@ -1,0 +1,35 @@
+h3{
+  outline: 2px solid black;
+  text-align: center;
+  margin-bottom: 0;
+  width: 900px;
+  height: 33px;
+  background-color: orange;
+  }
+.box1{
+  width: 300px;
+  padding: 15px;
+  border: 1px solid black;
+  margin: 0px;
+  box-sizing: border-box;
+  float:left;
+}
+.box2{
+  width: 300px;
+  padding: 15px;
+  border: 1px solid black;
+  margin: 0px;
+  box-sizing: border-box;
+  float:left;
+}
+.box3{
+  width: 300px;
+  padding: 15px;
+  border: 1px solid black;
+  margin: 0px;
+  box-sizing: border-box;
+  float:left;
+}
+img{
+  max-width: 100%;
+}
